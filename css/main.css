@@ -1,0 +1,8 @@
+#coming_soon_page {
+  background-image: url(../images/coming-soon.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
